@@ -1,2 +1,2 @@
 # NFTs
-Non-fungible Token Research
+Non-fungible Token(s) Research
